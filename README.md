@@ -1,13 +1,13 @@
 - olá, meu nome Lucas
 
- -estou estudando no alura
+ - estou estudando no alura
  
- -estou me desenvolvendo no java script
+ - estou me desenvolvendo no java script
  
- -uso esse espaço para me organizar e compartilhar os meus projetos desenvolvidos
+ - uso esse espaço para me organizar e compartilhar os meus projetos desenvolvidos
  
- -você pode entrar em contato em...
+ - você pode entrar em contato em...
  
- -00001133857383sp@al.educacao.sp.gov.br
+ - 00001133857383sp@al.educacao.sp.gov.br
  
- -@Lucasfernando94
+ - @Lucasfernando94
